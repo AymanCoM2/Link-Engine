@@ -1,0 +1,12 @@
+https://www.php.net/manual/en/book.url.php
+
+https://www.php.net/manual/en/function.geoip-domain-by-name.php
+
+https://www.php.net/manual/en/ref.url.php
+
+https://www.php.net/manual/en/function.parse-url.php
+
+https://www.coderanks.com/articles/check-if-url-existed-using-php
+
+https://stackoverflow.com/questions/2280394/how-can-i-check-if-a-url-exists-via-php
+

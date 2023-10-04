@@ -12,7 +12,6 @@ By Default its State is "Waiting"
 Till we Check it , IF Valid We Have another Table
 The other table Has the Domain and Real Description and Stuff like that  ;
 Link ThumbNail and Upload To Cloudinary  ?
-https://www.w3schools.in/php/examples/check-domain-name-is-valid#google_vignette
 Data From:
     - Microsoft Bing Data "Scraping"
     - Google
@@ -27,8 +26,3 @@ Site Data :
     - Tags,Category,About section,services Provided;
     - From admins and APIs
 //////////////////////////
-ONCE link Engine is Done : And Admin Has Form TO approve - Edit Collected Data : 
-## Users Types:
-    - Reviews , Curator , Normal ...etc ???
-6-Making "Admin" Priviliges For "Reports" and Stuff Like that  ;
-    - CRUD operations with ADMINS and Owners ,, No private For Admins 
