@@ -1,8 +1,6 @@
 -APIs / AI / Scraping for this Project :
     - Detection Of Category
-        - Affiliate -Spam Links  -Short Link -Event Related
     - Resolve ShortLinks into big Real Ones
-https://status.cdnjs.com/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_nav
 --------------------------------------
 Data From:
     - Microsoft Bing Data "Scraping"
@@ -21,3 +19,5 @@ Site Data :
     - Website ScreenShot
     Link ThumbNail and Upload To Cloudinary  ?
 /////////////////////////
+https://developers.similarweb.com/docs/digital-rank-api     
+   - Affiliate -Spam Links  -Short Link -Event Related
