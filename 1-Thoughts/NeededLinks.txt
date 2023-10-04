@@ -38,3 +38,5 @@ https://yandex.com/dev/safebrowsing/doc/quickstart/concepts/lookup.html
 =========================================
 https://developers.similarweb.com/docs/digital-rank-api     
 
+------------------------------------
+https://website-categorization.whoisxmlapi.com/api/pricing
