@@ -1,0 +1,34 @@
+-APIs / AI / Scraping for this Project :
+    - The Active/Or/Down Site
+    - Detection Of Category
+    - Affiliate -Spam Links  -Short Link -Event Related
+    - Resolve ShortLinks into big Real Ones
+    - Website ScreenShot ?
+    In ellink Make Coulmn For the Validity of the Link "Totally Valid"
+    Or Subdomain Of a Valid Link
+https://status.cdnjs.com/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_nav
+--------------------------------------
+By Default its State is "Waiting"
+Till we Check it , IF Valid We Have another Table
+The other table Has the Domain and Real Description and Stuff like that  ;
+Link ThumbNail and Upload To Cloudinary  ?
+https://www.w3schools.in/php/examples/check-domain-name-is-valid#google_vignette
+Data From:
+    - Microsoft Bing Data "Scraping"
+    - Google
+    - SimilarWeb
+    - McAfee
+    - Alexa Is Down
+===========================
+http://127.0.0.1:8000/list/1
+    If i Duplicate it ,, Then we Have 2 Review Pages For the Same Link ???
+2-The Recommendation Engine For Similar Sites ?
+Site Data :
+    - Tags,Category,About section,services Provided;
+    - From admins and APIs
+//////////////////////////
+ONCE link Engine is Done : And Admin Has Form TO approve - Edit Collected Data : 
+## Users Types:
+    - Reviews , Curator , Normal ...etc ???
+6-Making "Admin" Priviliges For "Reports" and Stuff Like that  ;
+    - CRUD operations with ADMINS and Owners ,, No private For Admins 

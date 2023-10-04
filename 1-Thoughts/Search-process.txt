@@ -1,0 +1,9 @@
+## Search Component: 
+    - Before taking results It will Always Dispach an Event to 
+    the Fitler and Get all Filters TO use Them 
+
+## Filter Component : 
+    - Any Check Or Change on the FIlter will Dispach Event 
+    and Send New Filter Data 
+    - Search Component will listen to any Change For the FIlters 
+    - and Then Do the Search process 
