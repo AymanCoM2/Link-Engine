@@ -1,5 +1,5 @@
 -APIs / AI / Scraping for this Project :
-    - Resolve ShortLinks into big Real Ones
+
     - Detection Of Category
     - Tags,Category,About section,services Provided;
 ===========================
