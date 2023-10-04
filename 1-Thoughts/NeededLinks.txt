@@ -36,3 +36,5 @@ https://yandex.com/dev/safebrowsing/doc/quickstart/concepts/restricts.html
 https://yandex.com/dev/safebrowsing/doc/quickstart/concepts/lookup.html
 =========================================
 =========================================
+https://developers.similarweb.com/docs/digital-rank-api     
+
