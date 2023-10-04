@@ -1,17 +1,9 @@
 -APIs / AI / Scraping for this Project :
-    - The Active/Or/Down Site
     - Detection Of Category
-    - Affiliate -Spam Links  -Short Link -Event Related
+        - Affiliate -Spam Links  -Short Link -Event Related
     - Resolve ShortLinks into big Real Ones
-    - Website ScreenShot ?
-    In ellink Make Coulmn For the Validity of the Link "Totally Valid"
-    Or Subdomain Of a Valid Link
 https://status.cdnjs.com/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_nav
 --------------------------------------
-By Default its State is "Waiting"
-Till we Check it , IF Valid We Have another Table
-The other table Has the Domain and Real Description and Stuff like that  ;
-Link ThumbNail and Upload To Cloudinary  ?
 Data From:
     - Microsoft Bing Data "Scraping"
     - Google
@@ -26,3 +18,6 @@ Site Data :
     - Tags,Category,About section,services Provided;
     - From admins and APIs
 //////////////////////////
+    - Website ScreenShot
+    Link ThumbNail and Upload To Cloudinary  ?
+/////////////////////////

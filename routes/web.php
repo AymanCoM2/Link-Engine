@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Spatie\Browsershot\Browsershot;
 
 Route::get('/', function () {
     return view('welcome');
@@ -67,11 +68,54 @@ function checkExistUrl()
     echo $status;
 }
 
+function isSiteAvailible($url)
+{
+    // Check, if a valid url is provided
+    if (!filter_var($url, FILTER_VALIDATE_URL)) {
+        return false;
+    }
+    // Initialize cURL
+    $curlInit = curl_init($url);
+
+    // Set options
+    curl_setopt($curlInit, CURLOPT_CONNECTTIMEOUT, 10);
+    curl_setopt($curlInit, CURLOPT_HEADER, true);
+    curl_setopt($curlInit, CURLOPT_NOBODY, true);
+    curl_setopt($curlInit, CURLOPT_RETURNTRANSFER, true);
+
+    // Get response
+    $response = curl_exec($curlInit);
+
+    // Close a cURL session
+    curl_close($curlInit);
+
+    return $response ? "true" : "false";
+}
+
+function snap($url)
+{
+    //Link to download file...
+    //Code to get the file...
+    $data = file_get_contents($url);
+    //save as?
+    $filename = "test.html";
+    // //save the file...
+    $fh = fopen($filename, "w");
+    fwrite($fh, $data);
+    fclose($fh);
+    //display link to the file you just saved...
+    // echo "<a href='" . $filename . "'>Click Here</a> to download the file...";
+}
+// snap('https://fonts.bunny.net/');
+// https:://www.goovvgle.com/
+// If I use :: In the Link It returns NOHING at all 
+// $x = isSiteAvailible('https://www.goovvgle.com/');
+// @checkExistUrl();
+// is_valid_domain('//www:80');
+// parseUrlParts();
+// $url  = request()->input('search');
+
 Route::get('/search', function () {
     
-    // @checkExistUrl();
-    // is_valid_domain('//www:80');
-    // parseUrlParts();
-    // $url  = request()->input('search');
     return view('search');
 })->name('search');

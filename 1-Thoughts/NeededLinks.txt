@@ -10,3 +10,29 @@ https://www.coderanks.com/articles/check-if-url-existed-using-php
 
 https://stackoverflow.com/questions/2280394/how-can-i-check-if-a-url-exists-via-php
 
+/////////////////////////////////////////////////
+/////////////////////////////////////////////////
+/////////////////////////////////////////////////
+/////////////////////////////////////////////////
+https://www.cyren.com/security-center/url-category-check-gate
+https://www.brightcloud.com/tools/url-ip-lookup.php
+
+=========================================
+=========================================
+=========================================
+https://github.com/spatie/browsershot
+$ composer require spatie/browsershot
+## Because if you run 
+$ composer require browsershot
+You Will Get Many Options 
+
+https://www.urlbox.io/pricing
+https://www.urlbox.io/urlbox-alternatives
+=========================================
+=========================================
+=========================================
+https://www.urlvoid.com/api/
+https://yandex.com/dev/safebrowsing/doc/quickstart/concepts/restricts.html
+https://yandex.com/dev/safebrowsing/doc/quickstart/concepts/lookup.html
+=========================================
+=========================================

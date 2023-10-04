@@ -11,6 +11,8 @@ return new class extends Migration
         Schema::create('real_urls', function (Blueprint $table) {
             $table->id();
             $table->string('url_host')->nullable();
+            // TODO
+            // ! host is UNIQUE !! 
             $table->string('state')->nullable();
             $table->string('isActive')->nullable();
             $table->string('security')->nullable(); // From BlackLists 
