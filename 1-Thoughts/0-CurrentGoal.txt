@@ -1,0 +1,23 @@
+-APIs / AI / Scraping for this Project :
+    - Detection Of Category
+    - Resolve ShortLinks into big Real Ones
+--------------------------------------
+Data From:
+    - Microsoft Bing Data "Scraping"
+    - Google
+    - SimilarWeb
+    - McAfee
+    - Alexa Is Down
+===========================
+http://127.0.0.1:8000/list/1
+    If i Duplicate it ,, Then we Have 2 Review Pages For the Same Link ???
+2-The Recommendation Engine For Similar Sites ?
+Site Data :
+    - Tags,Category,About section,services Provided;
+    - From admins and APIs
+//////////////////////////
+    - Website ScreenShot
+    Link ThumbNail and Upload To Cloudinary  ?
+/////////////////////////
+https://developers.similarweb.com/docs/digital-rank-api     
+   - Affiliate -Spam Links  -Short Link -Event Related
